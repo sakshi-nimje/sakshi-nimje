@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sakshi Nimje</h1>
 <h3 align="center">A Tech Enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHHelMnrA99F1vB3UorS_k8_2w-3rw2aLig&s">
+<!--<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHHelMnrA99F1vB3UorS_k8_2w-3rw2aLig&s">-->
 
 - 🌱 I’m currently learning **Spring**
 
